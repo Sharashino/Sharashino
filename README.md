@@ -1,4 +1,4 @@
-- Hi, I’m @Sharashino
+- Hi, I’m Gerard
 - I’m interested in game development using Unity and C#
 - I’m currently learning Unity's custom editor 
 - Currently working on Gameplay Systems in DzidaStudio
