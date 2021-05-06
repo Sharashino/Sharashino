@@ -3,4 +3,4 @@
 - I’m currently learning Unity's custom editor 
 - Currently working on Gameplay Systems in DzidaStudio
 - You can reach me by email -> sharashino@icloud.com
-- Visit my website and checkout my work -> www.sharashino.dev
+- Visit my website and check out my work -> www.sharashino.dev
