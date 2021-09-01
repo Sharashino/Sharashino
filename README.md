@@ -1,6 +1,5 @@
 - Hi, I’m Gerard
 - I’m interested in game development using Unity and C#
-- I’m currently learning Unity's custom editor 
-- Currently working on Gameplay Systems in DzidaStudio
+- Currently working on Gameplay Systems in DzidaStudio 
 - You can reach me by email -> sharashino@icloud.com
-- Visit my website and check out my work -> www.sharashino.dev
+- My web -> www.sharashino.dev
