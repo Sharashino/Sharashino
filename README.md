@@ -1,5 +1,5 @@
 - Hi, I’m Gerard
-- I’m interested in game development using Unity and C#
-- Currently working on Gameplay Systems in DzidaStudio 
+- Unity Game Developer
+- Currently working CyberGames 
 - You can reach me by email -> sharashino@icloud.com
 - My web -> www.sharashino.dev
