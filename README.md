@@ -2,4 +2,4 @@
 - Unity Game Developer
 - Currently working in [Cyber Games](https://cgames.pl/)
 - You can reach me by email -> sharashino@icloud.com
-- My web -> www.sharashino.dev (currently offline :( )
+- My web -> www.sharashino.dev (currently offline)
