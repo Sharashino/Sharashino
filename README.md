@@ -1,5 +1,5 @@
 - Hi, I’m Gerard
 - Unity Game Developer
-- Currently working CyberGames 
+- Currently working in [Cyber Games](https://cgames.pl/)
 - You can reach me by email -> sharashino@icloud.com
 - My web -> www.sharashino.dev
