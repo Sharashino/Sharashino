@@ -1,4 +1,4 @@
 - Hi, I’m Gerard
-- Unity Game Developer
+- Unity Developer
 - You can reach me by email -> sharashino@icloud.com
 - My web -> www.sharashino.dev (back up!)
