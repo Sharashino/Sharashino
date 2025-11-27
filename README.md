@@ -1,7 +1,7 @@
-- Hi, I’m Gerard
-- Unity Developer
-- You can reach me by email -> hello@sharashino.dev
-- My web -> www.sharashino.dev (back up!)
+Hi, I’m Gerard
+Game Developer
+You can reach me by email -> hello@sharashino.dev
+My web -> www.sharashino.dev (back up!)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
